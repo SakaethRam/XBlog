@@ -5,3 +5,7 @@ Arkin X is dedicated to driving innovation by incorporating updates and leveragi
 > Impeller
 >  Skia.
 With a focus on future developments, the team welcomes contributions via pull requests, offering an opportunity to enhance the project while acquiring essential technical skills.
+
+![XBlog UI](https://github.com/user-attachments/assets/653ff03b-4689-4c92-8208-5b318f5abc30)
+
+![XBlog B S](https://github.com/user-attachments/assets/acd5a69f-287a-4cf9-9150-e8e75303a610)
