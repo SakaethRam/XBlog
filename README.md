@@ -14,4 +14,4 @@ With a focus on future developments, the team welcomes contributions via pull re
 
 ![Settings](https://github.com/user-attachments/assets/e0e94c29-2824-4ad6-bb24-a9424f6d784e)
 
-![UI Design](https://github.com/user-attachments/assets/4f9e5a87-1b16-46dd-beac-61732368124a)
+![XBlog](https://github.com/user-attachments/assets/6b593665-214c-4850-a5f7-41b427018c58)
