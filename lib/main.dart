@@ -106,6 +106,19 @@ class XBlog extends StatelessWidget {
                               ),
                             ),
                           ),
+                          IconButton(
+                            icon: Icon(
+                              Icons.home,
+                              size: 35,
+                              color: Colors.black,
+                            ),
+                            onPressed: () {
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(builder: (context) => HomeSect()),
+                              );
+                            },
+                          )
                         ],
                       ),
                     ),
@@ -290,7 +303,19 @@ class XBlogArk2 extends StatelessWidget {
                               ),
                             ),
                           ),
-
+                          IconButton(
+                            icon: Icon(
+                              Icons.home,
+                              size: 35,
+                              color: Colors.red.shade900,
+                            ),
+                            onPressed: () {
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(builder: (context) => HomeSect()),
+                              );
+                            },
+                          )
                         ],
                       ),
                     ),
@@ -475,7 +500,19 @@ class XBlogArk3 extends StatelessWidget {
                               ),
                             ),
                           ),
-
+                          IconButton(
+                            icon: Icon(
+                              Icons.home,
+                              size: 35,
+                              color: Colors.brown,
+                            ),
+                            onPressed: () {
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(builder: (context) => HomeSect()),
+                              );
+                            },
+                          )
                         ],
                       ),
                     ),
