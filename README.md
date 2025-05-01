@@ -85,7 +85,19 @@ lib/
 
 ---
 
+## **Contribution Guidelines**  
+Contributions are welcome. To contribute:  
+1. Fork the repository.  
+2. Create a feature branch.  
+3. Implement your changes.  
+4. Submit a pull request with a clear description of modifications.  
+
+---
+
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+MIT License
 
+---
+
+Built by `S A M` – Building a minimalist Social Media.
