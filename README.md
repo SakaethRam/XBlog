@@ -27,7 +27,7 @@ XBlog is a Flutter-based blogging application designed with an anime-inspired ae
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/xblog.git
+   git clone "https://github.com/SakaethRam/XBlog.git"
    cd xblog
    ```
 
