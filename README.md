@@ -94,10 +94,4 @@ Contributions are welcome. To contribute:
 
 ---
 
-## License
-
-MIT License
-
----
-
 Built by `S A M` – Building a minimalist Social Media.
